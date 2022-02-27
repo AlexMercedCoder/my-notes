@@ -11,7 +11,7 @@ This is a codeblock
 ```
 
 ```mermaid
-Flowchart LR
+flowchart LR
     one --> two
     three --> four
 
